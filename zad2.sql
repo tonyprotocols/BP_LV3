@@ -1,0 +1,6 @@
+SELECT COUNT(*)
+FROM student
+
+
+SELECT COUNT(*)
+FROM mjesto
