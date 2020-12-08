@@ -3,5 +3,5 @@ SELECT COUNT(*)
 FROM student
 
 --Pomocu COUNT prebrojimo sva mjesta iz tablice mjesto.--
-SELECT COUNT(*)
-FROM mjesto
+SELECT COUNT(DISTINCT  pbrPreb)
+FROM student
